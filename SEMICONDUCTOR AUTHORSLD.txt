@@ -1,0 +1,161 @@
+﻿id	author	documents	citations	total link strength
+113	abderrazak maaref	5	148	40
+245	akiko saito	5	65	18
+267	albena ivanisevic	7	161	0
+278	alberto salleo	5	17	2
+307	alexander giovannitti	5	242	5
+457	andreas hierlemann	6	353	4
+466	andreas offenhäusser	6	227	34
+542	anju chadha	8	202	37
+582	anran gao	6	531	43
+585	anthony graham	7	124	69
+662	arshak poghossian	34	825	857
+702	ashok mulchandani	5	222	44
+788	balwinder raj	7	49	14
+895	bilha willner	7	717	23
+1197	chao-sung lai	5	106	51
+1198	chao-wen lin	10	137	80
+1326	chih-ting lin	5	449	40
+1387	christina wege	8	122	196
+1420	christopher r. bowen	6	124	69
+1444	chun-hung chang	5	27	11
+1458	chunsheng wu	5	85	9
+1468	chyuan haur kao	7	101	65
+1472	cinzia di franco	5	51	44
+1480	claude martelet	7	266	36
+1617	daniel m. ratner	5	496	0
+1731	denise molinnus	10	207	250
+1846	dong-il moon	5	180	58
+1848	dong-sun kim	5	82	17
+1929	ebrahim ghafar-zadeh	7	398	61
+1974	eleonora macchia	6	119	23
+2022	enakshi bhattacharya	11	209	42
+2102	evgeny katz	6	187	60
+2293	fredrik winquist	5	193	0
+2299	fu-hsiang ko	6	270	15
+2356	gaetano scamarcio	6	172	55
+2402	gerardo palazzo	7	267	61
+2411	geunbae lim	6	180	31
+2463	goutam mohanty	5	65	0
+2510	guglielmo lanzani	6	70	3
+2592	hadis morkoç	5	840	0
+2678	hans lüth	8	381	159
+2752	hedi mattoussi	5	589	10
+2828	hiroki hayashi	6	41	19
+2898	hongmin ma	5	74	2
+2926	houcine barhoumi	6	197	42
+2930	howard e. katz	6	176	14
+2932	hsiang chen	9	104	65
+2986	huangxian ju	5	132	2
+2989	huanshun yin	6	280	7
+3102	iain mcculloch	7	792	5
+3120	igor l. medintz	16	2208	130
+3193	isao karube	8	89	0
+3199	itamar willner	15	3708	54
+3290	jae-hyuk ahn	9	347	76
+3320	james b. delehanty	6	727	36
+3339	james s. harris	6	89	30
+3349	jan j. dubowski	9	107	0
+3359	jang-kyoo shin	13	110	43
+3401	jee-yeon kim	5	111	31
+3676	jinhyeon choi	5	26	28
+3731	johannes bongaerts	6	46	127
+3756	john taylor	6	124	69
+3766	jon robbins	6	124	69
+3829	joseph wang	7	1869	62
+3843	josé r. siqueira	7	255	221
+3904	jun-jie zhu	6	113	2
+4093	kazuaki sawada	8	6	2
+4105	kazuo nakazato	7	30	1
+4192	kimihiro susumu	14	951	120
+4297	kyriaki manoli	9	209	60
+4539	liping du	6	135	11
+4626	luisa torsi	16	387	90
+4692	m. jamal deen	7	262	12
+4693	m. k. md arshad	6	52	9
+4784	magnus willander	6	94	0
+4841	manoj saxena	5	167	47
+4910	maria magliulo	10	344	79
+4914	maria rosa antognazza	7	105	9
+4955	marion thust	6	358	145
+5028	maryam h. abouzar	7	268	181
+5091	maximilian moser	5	73	2
+5130	melanie jablonski	9	106	112
+5132	melanie welden	5	39	227
+5202	michael h. stewart	6	1068	74
+5208	michael j. schoening	6	19	14
+5210	michael j. schöning	48	1704	1019
+5216	michael keusgen	18	249	387
+5289	min-hsien wu	14	291	150
+5303	ming-de huang	5	121	44
+5393	mohammad reza abidian	5	137	0
+5449	moongyu jang	6	36	0
+5463	mridula gupta	5	167	47
+5557	na lu	5	531	43
+5685	nicola cioffi	6	158	57
+5687	nicola martino	5	4	2
+5697	nicole jaffrezic-renault	9	317	27
+5709	niko hildebrandt	11	1432	112
+5765	null ajay	5	167	47
+5871	ofer levi	5	79	30
+5909	omer nur	5	44	0
+6017	patrick wagner	6	89	167
+6055	pawandeep kaur	5	22	14
+6061	pedro estrela	11	75	8
+6115	peter kordos	5	313	80
+6136	petra siegert	7	46	142
+6179	ping wang	10	439	13
+6203	po-yu kuo	6	51	15
+6306	qin wei	9	186	2
+6439	rakhi narang	5	167	47
+6667	rudra sankar dhar	5	7	9
+6704	ruo yuan	10	253	8
+6835	saghi forouhi	6	131	31
+6904	sang yup lee	5	244	60
+6907	sang-ho seo	5	26	28
+6930	sanjiv s. gambhir	5	171	34
+7079	shalini prasad	8	155	0
+7098	shanshan cheng	7	99	22
+7173	shigeki kuroiwa	10	56	19
+7216	sho hideshima	10	54	15
+7222	shoichi nishitani	6	5	1
+7416	sriram muthukumar	6	133	0
+7460	stephen e. saddow	5	63	0
+7493	subash c. b. gopinath	6	65	8
+7592	susumu kuwabata	8	46	2
+7596	sven ingebrandt	7	294	27
+7613	syed k. islam	6	230	48
+7653	tae jung park	7	311	72
+7677	taira kajisa	7	27	10
+7702	takuya nakanishi	7	54	15
+7703	tal murthy	5	2	0
+7723	taro uematsu	6	46	2
+7768	tetsuya osaka	14	59	19
+7836	tie li	6	531	43
+7903	torsten wagner	6	113	104
+7909	toshihiko baba	5	0	0
+7917	toshiya sakata	25	195	38
+7918	toshiyuki momma	7	44	19
+7932	tsukasa torimoto	8	46	2
+7949	tung-ming pan	25	398	212
+7964	uda hashim	14	112	10
+8115	vivek pachauri	5	170	10
+8154	w. russ algar	6	1618	82
+8231	wei-hao lai	5	27	11
+8238	wei-wei zhao	5	268	7
+8340	wolfgang knoll	6	73	2
+8345	won-ju cho	6	79	8
+8353	wu lu	5	9	4
+8530	xing-hua xia	5	101	0
+8676	yang liu	5	110	6
+8687	yang-kyu choi	10	927	115
+8729	yaqin chai	7	183	4
+8958	you seung rim	5	298	2
+8996	yu chen	8	121	3
+9086	yuelin wang	6	531	43
+9094	yuh-shyong yang	6	268	15
+9099	yuji miyahara	8	197	6
+9144	yunlei zhou	6	280	7
+9161	yuri s. kivshar	5	248	0
+9172	yusmeeraz yusof	5	1	0
+9192	yuyu bu	5	77	3
